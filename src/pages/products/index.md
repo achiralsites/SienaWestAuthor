@@ -1,14 +1,17 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: What we offer
+templateKey: product-page
+title: Siena West Author Page
+image: /img/41326642_398602324004604_3356913393075224576_n.jpg
+heading: 'Official website of the author, Siena West. '
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The Elena Vargas mystery series feature an archaeologist with a penchant for
+  getting into trouble and a special sixth sense that helps her get unhurt out
+  of scrapes. She is an associate professor at the University of Arizona and
+  directs an archaeological field school in the mountain country of east-
+  central Arizona. Her adventures with pot hunters bring her into contact with
+  an FBI special agent who hires her as an archaeological consultant. Romance
+  blossoms despite an atmosphere of danger and darkness. Their partnership helps
+  to bring down a Mexican cartel.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -99,3 +102,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
