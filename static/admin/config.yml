@@ -68,7 +68,7 @@ collections:
                     fields:
                       [
                         { label: Image, name: image, widget: image },
-                        { label: Header, name: Header, widget: text },
+                        { label: Header, name: header, widget: text },
                         { label: Text, name: text, widget: text },
                       ],
                   },
